@@ -1,1 +1,1 @@
-# Walmart-Sales-Analysis-SQL-PYTHON
+# Walmart_Sales_Analysis SQL-PYTHON
